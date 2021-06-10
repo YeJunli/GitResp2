@@ -7,4 +7,7 @@ package com.msb;
  * @version:1.0
  */
 public class DemoGit {
+    private String mame;
+    private int age;
+    private String className;
 }
